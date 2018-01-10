@@ -1,6 +1,6 @@
 body 
 {
-  background-image: url("/Users/sarahkylim/Desktop/my_website/dashes.jpg"), url("/Users/sarahkylim/Desktop/my_website/dashes copy.jpg"); 
+  background-image: url("dashes.jpg"); 
   position: static;
   background-repeat: repeat;
   background-size: 100%;
